@@ -1,0 +1,20 @@
+body{
+    background:
+    url(https://plus.unsplash.com/premium_photo-1666557390174-8296736eb3cf?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size:cover;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+td,table{
+    align-content: center;
+    border:2px solid white;
+    color: white;
+    background: grey;
+    font-size: 26px;
+}
+thead{
+    background:brown;
+    color:goldenrod;
+}
