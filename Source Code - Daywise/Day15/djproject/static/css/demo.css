@@ -1,0 +1,36 @@
+body{
+background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZylVo3L9yYFmUK8yR9t6dNwkUpTBxYYjJA&s
+)
+}
+.container{
+    margin-top:100px;
+    color: goldenrod;
+}
+.jumbotron a{
+    background : rgb(0, 119, 128);
+    color:pink;
+    border:2px solid lightcoral;
+}
+img{
+    height: 200px;
+    width:30%;
+    float:left;
+    margin:1.5%;
+    border:2px solid red;
+}
+h1{
+    color:grey;
+    text-align: center;
+    background: black;
+}
+h3{
+    color:grey;
+    text-align: center;
+    background: white;
+}
+table,thead,th,tr,td{
+    color:brown;
+    border:2px solid blueviolet;
+    font-size: 20px; 
+    margin: auto;
+}
