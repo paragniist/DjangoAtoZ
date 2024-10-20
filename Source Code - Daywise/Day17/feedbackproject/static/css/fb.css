@@ -1,0 +1,19 @@
+body{
+    background-color:goldenrod;
+    background-size:cover;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+td,table{
+    align-content: center;
+    border:2px solid white;
+    color: white;
+    background: grey;
+    font-size: 26px;
+}
+thead{
+    background:brown;
+    color:goldenrod;
+}
